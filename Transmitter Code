@@ -1,4 +1,4 @@
-#Arduino Code for the Transmitter
+//Arduino Code for the Transmitter
 //#include <HCSR04.h>
 
 // include library for sensor-specific functions
