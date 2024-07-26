@@ -10,9 +10,6 @@ Two ultrasonic Sensors are used to track human motion (whether the human is movi
 <img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e" width="800">
 <img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52" width="800">
 
-![Screenshot 2024-04-30 203248](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e)
-![Screenshot 2024-04-30 203426](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52)
-
 The Enclosures are designed for easy installation purposes. you can find all the Schematic and PCB design files and the Solidworks files here if necessary
 
 
@@ -21,14 +18,14 @@ ESP32 Could be a better alternative for the Atmega328p and nrf24l01 transceiver 
 ## PCB Design
 software: Altium
 
-![Screenshot 2024-04-30 203529](https://github.com/user-attachments/assets/bd7770e3-f03f-4809-9bed-bac45d3539aa)
-![Screenshot 2024-04-30 203605](https://github.com/user-attachments/assets/a5e3894b-787b-4157-8813-9ad76a10bcfa)
+<img src="https://github.com/user-attachments/assets/bd7770e3-f03f-4809-9bed-bac45d3539aa" width="500">
+<img src="https://github.com/user-attachments/assets/a5e3894b-787b-4157-8813-9ad76a10bcfa" width="300">
 
 ## Enclosure Design
 software: Solidworks
 
-![WhatsApp Image 2024-04-30 at 20 21 40_081024bd](https://github.com/user-attachments/assets/6ed90a2e-e19c-4afd-bdb0-e2552f388957)
-![WhatsApp Image 2024-04-30 at 20 21 40_fcdba732](https://github.com/user-attachments/assets/f6e1bc89-7a36-4ed3-ab20-0c2716384ed5)
-![WhatsApp Image 2024-04-30 at 20 21 40_a6572b6d](https://github.com/user-attachments/assets/f3cc29a4-1947-4a2e-8094-44e84bf998b7)
-![WhatsApp Image 2024-04-30 at 20 21 41_d3cb7211](https://github.com/user-attachments/assets/6d910265-8d68-4cd4-8377-69e971552d7b)
-![WhatsApp Image 2024-04-30 at 20 21 41_d1ea1233](https://github.com/user-attachments/assets/716aa21e-cf50-43c7-9b47-4506dec14656)
+<img src="https://github.com/user-attachments/assets/6ed90a2e-e19c-4afd-bdb0-e2552f388957" width="400">
+<img src="https://github.com/user-attachments/assets/f3cc29a4-1947-4a2e-8094-44e84bf998b7" width="400">
+<img src="https://github.com/user-attachments/assets/f6e1bc89-7a36-4ed3-ab20-0c2716384ed5" width="200">
+<img src="https://github.com/user-attachments/assets/6d910265-8d68-4cd4-8377-69e971552d7b" width="270">
+<img src="https://github.com/user-attachments/assets/716aa21e-cf50-43c7-9b47-4506dec14656" width="300">
