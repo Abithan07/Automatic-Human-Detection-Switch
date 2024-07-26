@@ -7,8 +7,8 @@ You can find the complete code here
 Two ultrasonic Sensors are used to track human motion (whether the human is moving inside or going out) depending on which sensor is activated first and the second sensor reading is also taken to ensure whether the human is actually passing the line or returning to the same direction without going inside(or outside) which leaves the second sensor un-attended. After that, the message is then sent to the receiver and it decides whether to turn on or turn off, or do nothing(when there are people in the room) the appliances. The receiver keeps track of people's count to decide between these options.
 
 ## Schematic diagrams of our circuit
-<img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e" width="400" height="790">
-<img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52" width="400" height="790">
+<img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e" width="800">
+<img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52" width="800">
 
 ![Screenshot 2024-04-30 203248](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e)
 ![Screenshot 2024-04-30 203426](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52)
