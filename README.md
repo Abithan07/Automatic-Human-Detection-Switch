@@ -10,9 +10,9 @@ Two ultrasonic Sensors are used to track human motion (whether the human is movi
 <img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e" width="400" height="790">
 <img src="https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52" width="400" height="790">
 
-<!-- ![Screenshot 2024-04-30 203248](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e)
+![Screenshot 2024-04-30 203248](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/42dcd8a7-2585-4d2f-8df7-a5d31eacd20e)
 ![Screenshot 2024-04-30 203426](https://github.com/Abithan07/Automatic-Human-Detection-Switch/assets/145646334/1d8818c3-9338-4c11-9abd-91c08789ae52)
- -->
+
 The Enclosures are designed for easy installation purposes. you can find all the Schematic and PCB design files and the Solidworks files here if necessary
 
 
