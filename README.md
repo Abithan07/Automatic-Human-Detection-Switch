@@ -14,6 +14,8 @@ The Enclosures are designed for easy installation purposes. you can find all the
 
 
 ESP32 Could be a better alternative for the Atmega328p and nrf24l01 transceiver combined. The 1 logic of ESP32 is stuck to 3.3V. So when using it, the relay module also has to be changed since it uses 5V for its logic. Also, ultrasonic sensors can be replaced with ToF sensors but US sensors are widely available in the local market
+
+
 ![WhatsApp Image 2024-04-30 at 20 21 40_081024bd](https://github.com/user-attachments/assets/6ed90a2e-e19c-4afd-bdb0-e2552f388957)
 ![WhatsApp Image 2024-04-30 at 20 21 40_fcdba732](https://github.com/user-attachments/assets/f6e1bc89-7a36-4ed3-ab20-0c2716384ed5)
 ![WhatsApp Image 2024-04-30 at 20 21 40_a6572b6d](https://github.com/user-attachments/assets/f3cc29a4-1947-4a2e-8094-44e84bf998b7)
